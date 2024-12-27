@@ -1,0 +1,21 @@
+# R project
+.Rproj.user
+.Rhistory
+.RData
+inst/doc
+.httr-oauth
+.*.Rnb.cached
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+Icon
+
